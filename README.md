@@ -16,6 +16,8 @@ In this project, we will discuss:
 - What is Bivariate analysis?
 - Memory Optimization
 
+Dataset: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+
 Questions Answered in this project:
 1.Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
@@ -32,7 +34,7 @@ Questions Answered in this project:
 13. Find Total Number of Persons Having Age Between 17 To 48 (Inclusive) Using Between Method
 14. What is The Distribution of Workclass Column?
 15. How Many Persons Having Bachelors and Masters Degree?
-16. Bivariate Anaylsis
+16. Bivariate Analysis
 17. Replace Salary Values With 0 and 1
 18. Which Workclass Getting The Highest Salary?
 19.How Has Better Chance To Get Salary greater than 50K Male or Female?
